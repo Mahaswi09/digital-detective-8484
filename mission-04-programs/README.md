@@ -7,8 +7,6 @@
 
 ## Task 4.2 - Compare compiler and interpreter
 
-## Task 4.2: Compiler vs Interpreter
-
 | Point | Compiler | Interpreter |
 |---|---|---|
 | When translation / execution happens | Translates the whole code before running it. | Reads and runs the code while executing it. |
@@ -16,16 +14,7 @@
 | One example | C using `gcc`. | Python. |
 | One advantage | Makes the program run faster. | Makes testing and finding mistakes easier. |
 
-As the table shows, a compiler translates the whole program before running it. An interpreter reads and runs the code while the program is running. A compiler usually creates a separate file, while an interpreter shows the result directly. Both are used to run programs in different ways.## Task 4.2: Compiler vs Interpreter
-
-| Point | Compiler | Interpreter |
-|---|---|---|
-| When translation / execution happens | Translates the whole code before running it. | Reads and runs the code while executing it. |
-| Typical output | Creates a separate runnable file. | Shows the result directly in the Terminal. |
-| One example | C using `gcc`. | Python. |
-| One advantage | Makes the program run faster. | Makes testing and finding mistakes easier. |
-
--Difference between compiler and interpreter.
+- Difference between compiler and interpreter.
 
 A compiler translates the whole program before running it. An interpreter reads and runs the code while the program is running. A compiler usually creates a separate file, while an interpreter shows the result directly. Both are used to run programs in different ways.
 
@@ -33,6 +22,6 @@ A compiler translates the whole program before running it. An interpreter reads 
 
 Differences bewteen comipler and interpreter and python is an interpreter because it reads and runs my code and shows the result directly.
 
--Difficulty faced
+- Difficulty faced
 
 I misplelled a folder name while typing the command in terminal, and corrected it by fixing my typo and faced difficulty in some formatting. 
