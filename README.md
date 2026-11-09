@@ -14,3 +14,9 @@ A Diwali independent learning assignment where I investigate how computers work,
 - [Mission 8: Final Report](mission-08-final-report/README.md)
 
 Each mission is completed and committed separately.
+
+## My Learning
+
+1. I learned that staging selects the changes and committing saves them.
+2. I learned how to use Terminal commands like `ls` to see files and `cd` to move between folders.
+3. I learned how to understand file permissions (`rwx`) and convert numbers between binary and hexadecimal.
